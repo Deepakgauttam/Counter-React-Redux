@@ -13,4 +13,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-**Demo**: You can access the live demo of the project [here](https://tuke2b.csb.app/).
+**Demo**: You can access the live demo of the project [See Demo](https://9oflxg.csb.app).
